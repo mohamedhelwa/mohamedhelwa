@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **mohamedhelwa/mohamedhelwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hello there!
+  Hello there! 👋
   <p align='center'>
       <a href="https://twitter.com/intent/follow?screen_name=asirihewage">
 <img src="https://img.shields.io/twitter/follow/mohamedabohelwa?style=social&logo=twitter"
