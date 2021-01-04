@@ -25,7 +25,7 @@ So, now, I am a self-taught iOS Developer with 6 months experience. Have strong 
 
 With this passion remains with me. I apply my experience to do something different. There's certainly yet more to learn, yet more problems to solve, and yet more to build.
 
--  Languages: Swift, C/C++, Java, Python, PHP.
+-  Languages: Flutter, Swift, JavaScript, HTML5, CSS3, SASS, ES6, Angular, C/C++, Java, Python.
 
 
 
