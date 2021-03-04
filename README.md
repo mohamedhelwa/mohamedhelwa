@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ##  About
 Ever since I was a little kid, software development has been my passion. I still remember sitting in front of a Pentium 4 computer, with a big CRT monitor, making a Simple visual basic programs for the very first time when I was in grade 6. I went through VB6 tutorials. It was almost magic, being able to get the computer to do whatever I wanted, just by typing some commands.
 
-So, now, I am a self-taught iOS Developer with 6 months experience. Have strong engineering professional with a Bachelor's degree focused in Computer Science. I’m searching for a challenging position in which I can excel in the ambitions and mission of the company while continuing to enhance my skills and abilities.
+So, now, I am a Mobile Application Developer | Front-end Web Developer. Have strong engineering professional with a Bachelor's degree focused in Computer Science. SeSearching for a challenging position in a reputable organization to utilize my knowledge and experience in the field of Mobile Application Development using Flutter & Front-end Web Development. so I can excel in the ambitions and mission of the company while continuing to enhance my skills and abilities.
 
 With this passion remains with me. I apply my experience to do something different. There's certainly yet more to learn, yet more problems to solve, and yet more to build.
 
