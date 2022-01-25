@@ -30,3 +30,9 @@ With this passion remains with me. I apply my experience to do something differe
 
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
+
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhelwa&exclude_repo=Hi-chat,registration_form,Azkar,Post-v.1-Native-,Student-Housing&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![MohamedHelwa's github stats](https://github-readme-stats.vercel.app/api?username=mohamedhelwa&show_icons=true&theme=algolia)
