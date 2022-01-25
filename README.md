@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello there! <img src="./assets/wave.gif" width="30px"> </h1>
 
-<img src="https://komarev.com/ghpvc/?username=Abdelazeem777&style=flat"/>
-
 ##  About
 Ever since I was a little kid, software development has been my passion. I still remember sitting in front of a Pentium 4 computer, with a big CRT monitor, making a Simple visual basic programs for the very first time when I was in grade 6. I went through VB6 tutorials. It was almost magic, being able to get the computer to do whatever I wanted, just by typing some commands.
 
@@ -34,6 +32,7 @@ With this passion remains with me. I apply my experience to do something differe
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
+<img src="https://komarev.com/ghpvc/?username=mohamedhelwa&style=flat"/>
 
 ## &#x1f4c8; GitHub Stats
 
