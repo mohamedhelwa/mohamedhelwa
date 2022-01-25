@@ -30,9 +30,7 @@ With this passion remains with me. I apply my experience to do something differe
 
 
 
-![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-<img src="https://komarev.com/ghpvc/?username=mohamedhelwa&style=flat"/>
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen) <img src="https://komarev.com/ghpvc/?username=mohamedhelwa&style=flat"/>
 
 ## &#x1f4c8; GitHub Stats
 
