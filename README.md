@@ -40,6 +40,7 @@ WhatsApp [<img src="./assets/whatsApp.svg" width="20px">](https://wa.me/+2012288
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=macos&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
