@@ -28,10 +28,12 @@ With this passion remains with me. I apply my experience to do something differe
 
 ## 💬 Find me online
 
+<h4 align="center">
+
 Linkedin [<img src="./assets/linkedinIcon.svg" width="40px">](https://www.linkedin.com/in/mohamedabohelwa/).
 Stack Overflow [<img src="./assets/stackOverflow.svg" width="40px">](https://stackoverflow.com/users/12534053/mohamed-abd-el-hamid).
 WhatsApp [<img src="./assets/whatsApp.svg" width="40px">](https://wa.me/+201228802927).
-
+</h4>
 
 ## 🔧 Technologies & Tools
 
