@@ -28,7 +28,7 @@ With this passion remains with me. I apply my experience to do something differe
 
 ## 💬 Find me online
 
-Linkedin [<img src="./assets/linkedinIcon.svg" width="20px">](https://www.linkedin.com/in/mohamedabohelwa/).  Stack Overflow [<img src="./assets/stackOverflow.svg" width="20px">](https://stackoverflow.com/users/12534053/mohamed-abd-el-hamid).  WhatsApp [<img src="./assets/whatsApp.svg" width="20px">](https://wa.me/+201228802927).
+Linkedin [<img src="./assets/linkedinIcon.svg" width="20px">](https://www.linkedin.com/in/mohamedabohelwa/).             Stack Overflow [<img src="./assets/stackOverflow.svg" width="20px">](https://stackoverflow.com/users/12534053/mohamed-abd-el-hamid).          WhatsApp [<img src="./assets/whatsApp.svg" width="20px">](https://wa.me/+201228802927).
 
 
 ## 🔧 Technologies & Tools
