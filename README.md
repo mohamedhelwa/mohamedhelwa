@@ -46,10 +46,8 @@ WhatsApp [<img src="./assets/whatsApp.svg" width="20px">](https://wa.me/+2012288
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
-
-
--  Languages: Flutter, Swift, JavaScript, HTML5, CSS3, SASS, ES6, Angular, C/C++, Java, Python.
-
+![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Swift-informational?style=flat&logo=swift&logoColor=white&color=blue)
 
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen) <img src="https://komarev.com/ghpvc/?username=mohamedhelwa&style=flat"/>
